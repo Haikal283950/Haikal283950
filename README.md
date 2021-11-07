@@ -30,12 +30,12 @@
 <em>Self exercises</em>
   </head>
   
-  <body>
-  <p>
-    <ul>
-<li><a href="https://github.com/STIA1113-GROUP-C-HAIKAL/WEEK-2-SELF-EXERCISE">WEEK 2 - SELF EXERCISE</a></li>
-<li><a href="https://github.com/STIA1113-GROUP-C-HAIKAL/WEEK-3-SELF-EXERCISE">WEEK 3 - SELF EXERCISE</a></li>
-<li><a href="https://github.com/STIA1113-GROUP-C-HAIKAL/WEEK-4-SELF-EXERCISE">WEEK 4 - SELF EXERCISE</a></li>
-  </ul>
-  </p>
-  </body>
+         <body>
+          <p>
+           <ul>
+        <li><a href="https://github.com/STIA1113-GROUP-C-HAIKAL/WEEK-2-SELF-EXERCISE">WEEK 2 - SELF EXERCISE</a></li>
+        <li><a href="https://github.com/STIA1113-GROUP-C-HAIKAL/WEEK-3-SELF-EXERCISE">WEEK 3 - SELF EXERCISE</a></li>
+        <li><a href="https://github.com/STIA1113-GROUP-C-HAIKAL/WEEK-4-SELF-EXERCISE">WEEK 4 - SELF EXERCISE</a></li>
+         </ul>
+         </p>
+          </body>
